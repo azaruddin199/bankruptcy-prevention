@@ -1,1 +1,1 @@
-# bankruptcy-prevention
+# bankruptcy-prevention project
